@@ -8,9 +8,7 @@ Material and methods: Our primary goal was to predict Rt of the current day in t
 
 Results: Data from 243 days for every province were presented to our four models (from February 15th, 2020, to October 14th, 2020). Two models using differential calculation of Rt instead of the raw values showed the highest mean coefficient of determination (0.93 for both) and residuals reported the lowest mean error (-0.03 and 0.01) and standard deviation (0.13 for both) as well. The one with access to the value of Rt of the day before heavily relied on that feature for prediction, while the other one had more distributed weights.
 
-Discussion: The model that had not access to the Rt value of the previous day and used Rt differential value as outcome (FDRt) was considered the most robust according to the metrics. Its forecasts were able to predict the trend that Rt values would have developed over different weeks, but it was not particularly accurate in predicting the precise value of Rt. A correlation among mobility, atmospheric, features, pollution and Rt values is plausible, but further testing should be performed.
-
-[Please find the paper here](https://doi.org/10.1016/j.ijmedinf.2022.104755)'
+Discussion: The model that had not access to the Rt value of the previous day and used Rt differential value as outcome (FDRt) was considered the most robust according to the metrics. Its forecasts were able to predict the trend that Rt values would have developed over different weeks, but it was not particularly accurate in predicting the precise value of Rt. A correlation among mobility, atmospheric, features, pollution and Rt values is plausible, but further testing should be performed.'
 date: 2022-04-01
 venue: 'Int J Med Inform'
 paperurl: 'https://doi.org/10.1016/j.ijmedinf.2022.104755'

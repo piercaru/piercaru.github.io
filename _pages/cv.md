@@ -27,7 +27,7 @@ Work Experience
 * 09/2018 - 06/2019: Assistant to the Chief Transformation Officer - San Raffaele Hospital - Milan, Italy
   * Assisting in managing the reorganization of the Stroke Unit of the hospital from emergency room to rehabilitation.  
 
-* 08/2016 - 09/2018: Medical Student - Department of Internal Medicine and Advanced Care - San Raffaele Hospital - Milan, Italy
+* 07/2016 - 09/2018: Medical Student - Department of Internal Medicine and Advanced Care - San Raffaele Hospital - Milan, Italy
   * Assisted Senior and Junior Physicians in the daily routine of the medical ward, learned how normally a medical department works from diagnostic tools to therapeutic approaches, to post-discharge organization.
 
 

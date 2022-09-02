@@ -17,23 +17,23 @@ Towards the end of my medical studies, I discovered a great passion for data ana
 
 Work Experience
 ======
-* 01/2021 - Current: PhD Student in Data Science in Medicine - Humanitas University - Milan, Italy
-  * My PhD is focused on clinical deteriorating patients as it has severe consequences in mortality and morbidity.I am trying to predict these events to anticipate the therapeutic response that may results in life-saving interventions.
+* 01/2021 - Current: Ph.D. Student in Data Science in Medicine - Humanitas University - Milan, Italy
+  * My Ph.D. is focused on clinical deteriorating patients as it has severe consequences in mortality and morbidity.I am trying to predict these events to anticipate the therapeutic response that may results in life-saving interventions.
   * Supervisor: Prof. Maurizio Cecconi and Dr. Massimiliano Greco
 
-* 07/2016 - 09/2018: Data Scientist Scholarship - Humanitas Research Hospital - Milan, Italy
+* 09/2019 - 12/2020: Data Scientist Scholarship - Humanitas Research Hospital - Milan, Italy
   * Assisted the data scientists’ team of the hospital in structuring, developing, and publishing projects in the intensive care unit. Learned how to build a data science project from the primary outcome decision to algorithms optimization. 
 
 * 09/2018 - 06/2019: Assistant to the Chief Transformation Officer - San Raffaele Hospital - Milan, Italy
   * Assisting in managing the reorganization of the Stroke Unit of the hospital from emergency room to rehabilitation.  
 
-* 09/2018 - 06/2019: Medical Student - Department of Internal Medicine and Advanced Care - San Raffaele Hospital - Milan, Italy
+* 08/2016 - 09/2018: Medical Student - Department of Internal Medicine and Advanced Care - San Raffaele Hospital - Milan, Italy
   * Assisted Senior and Junior Physicians in the daily routine of the medical ward, learned how normally a medical department works from diagnostic tools to therapeutic approaches, to post-discharge organization.
 
 
 Education
 ======
-* 01/2021 - 01/2024 (expected): PhD in Data Science in Medicine in Humanitas University.
+* 01/2021 - 01/2024 (expected): Ph.D. in Data Science in Medicine in Humanitas University.
 * 11/2018 - 03/2019: Italian Medical License Examination in Vita-Salute San Raffaele University.
 * 10/2012 - 09/2018: International Medical Doctor Program in Vita-Salute San Raffaele University. Summa cum Laude.
 
